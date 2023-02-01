@@ -3,7 +3,7 @@ import java.util.Queue;
 
 public class Bank {
     public static void main(String[] args) {
-        // Queue yapısı oluşturalım
+        // Queue yapısı oluşturalım (First-In-First-Out)
       /*Java'da bir banka senaryosunda müşterilerin işlemlerini gerçekleştirmek için kuyruk yapısı*/
         Queue<String> customers = new LinkedList<>();
 
