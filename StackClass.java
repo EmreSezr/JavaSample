@@ -2,7 +2,7 @@ import java.util.Stack;
 
 public class Exam {
     public static void main(String[] args) {
-        // Stack yapısı oluşturalım
+        // Stack yapısı oluşturalım (Last-In-First-Out)
       
       /*Örnek olarak, bir sınavda sınavı alan öğrencilerin isimlerini bir Stack yapısında saklayalım.
       Öğrenciler sınavı almaya başladıklarında, isimleri Stack'e eklenir. Öğrenciler sınavı bitirdiklerinde, isimleri Stack'den çıkarılır.*/
